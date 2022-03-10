@@ -3,4 +3,4 @@ A tool that takes multiple formats of CSVs and converts them into a user-configu
 
 # How to use?
 
-Try it <a href="https://cryptotaxhelp.github.io">here</a>.
+Try it <a href="https://cryptotaxhelp.github.io/DataTool">here</a>.
